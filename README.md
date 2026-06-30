@@ -1,12 +1,12 @@
-# 📦 E-Commerce Shipping & Customer Analytics Dashboard
+# E-Commerce Shipping & Customer Analytics Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes an E-Commerce Shipping dataset using Microsoft Power BI to uncover insights into shipping performance, customer behavior, warehouse operations, and product analysis. The dashboard is designed to help business stakeholders monitor key performance indicators (KPIs), identify operational bottlenecks, and make data-driven decisions to improve customer satisfaction and delivery efficiency.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 An e-commerce company wants to evaluate its shipping operations and customer experience to answer key business questions such as:
 
@@ -21,7 +21,7 @@ The goal is to transform raw operational data into actionable business insights 
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### 1. Executive Overview
 Provides a high-level summary of business performance.
@@ -84,7 +84,7 @@ Evaluates operational performance across warehouses and product categories.
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 - Total Orders
 - On-Time Deliveries
@@ -100,7 +100,7 @@ Evaluates operational performance across warehouses and product categories.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -110,7 +110,7 @@ Evaluates operational performance across warehouses and product categories.
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 
 The following data cleaning steps were performed:
 
@@ -123,7 +123,7 @@ The following data cleaning steps were performed:
 
 ---
 
-## 💼 Business Insights
+## Business Insights
 
 - Shipment mode significantly influences delivery performance.
 - Warehouse performance varies across locations.
@@ -134,7 +134,7 @@ The following data cleaning steps were performed:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Optimize shipment modes with higher on-time delivery rates.
 - Improve operational efficiency in underperforming warehouses.
@@ -144,7 +144,7 @@ The following data cleaning steps were performed:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Source:** Kaggle
 
@@ -152,7 +152,7 @@ The following data cleaning steps were performed:
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Power Query
@@ -168,7 +168,7 @@ The following data cleaning steps were performed:
 
 ---
 
-## 👤 Author
+## Author
 
 **Tanushree Vijaykar**
 
